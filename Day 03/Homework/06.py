@@ -1,5 +1,5 @@
-fullname = "luka dzagania"
-age = 19
+fullname = "Nika Kobalia"
+age = 17
 print(fullname)
 print(fullname)
 print(fullname)

@@ -1,2 +1,2 @@
-print(luka)
-print("luka")
+print(Nika)
+print("Nika")

@@ -1,6 +1,6 @@
-name = "luka"
-age = 19
-height = 184.5
+name = "Nika"
+age = 17
+height = 180
 
 print (type(name))
 print (type(age))
